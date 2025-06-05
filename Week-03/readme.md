@@ -4,7 +4,7 @@ Hey everyone!
 
 This week, we're diving into **Fourier Series**, **Fourier Transforms**, and **motion capture techniques**.
 
-Most of the work is already done in `Week3.py`.  
+Most of the work is already done in `Week3.ipynb`.  
 You just need to complete the remaining tasks and build on top of it.
 
 > **🗓️ Deadline:** 11 June 2025 (EOD)
